@@ -15,7 +15,7 @@ h1 {
 }
 
 .container-fluid{
-    padding: 3% 15%;
+    padding: 2% 15% 7%;
 }
 
 /*navigation bar*/
@@ -50,11 +50,14 @@ h1 {
     transform: rotate(25deg);
     margin-left:40px;
     padding-left:20px;
+    position:absolute;
 }
 
 /*feature*/
 #features{
     padding: 7% 15%;
+    background-color: white;
+    position: relative;
 }
 
 .feature-icon{
